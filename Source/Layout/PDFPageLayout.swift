@@ -9,6 +9,8 @@
  Contains all relevant layout informations of a pdf document
  */
 public struct PDFPageLayout: PDFJSONSerializable {
+	
+	public init() {}
 
     // MARK: - PUBLIC VARS
 
